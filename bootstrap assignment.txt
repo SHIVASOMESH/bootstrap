@@ -1,0 +1,45 @@
+1.What are the advantages of Bootstrap?
+a:-saving time and effort by providing ready-made components and styles that can be customized and combined.
+
+2.What is a Bootstrap Container, and how does it work? 
+a:-used to set the content's margins dealing with the responsive behaviors of your layout.
+
+3.What are the default Bootstrap text settings?
+a:-default font-size of 16px, and its line-height is 1.5.
+
+4.What do you know about the Bootstrap Grid System? 
+a:-uses a series of containers, rows, and columns to layout and align content
+
+
+5.What is the difference between Bootstrap 4 and Bootstrap 5
+a:-Bootstrap 4 has five levels: xs, sm, md, lg, and xl. Bootstrap 5 has six levels: xs, sm, md, lg, xl, and xxl
+
+6.What is a Button Group, and what is the class for a basic Button Group?
+a:-“Button Groups” in Bootstrap is a class of name “btn-group” which is used to create a series of buttons in groups (without spaces) vertically or horizontally.
+
+7.How can you use Bootstrap to make thumbnails? 
+a:-img-thumbnail.
+
+8.In Bootstrap 4, what is flexbox?
+a:-Bootstrap 4 now uses flexbox, instead of floats, to handle the layout. 
+
+9.How can one create an alert in Bootstrap? 
+
+a:-<div class="alert alert-success" role="alert">
+    <strong>Success!</strong> Your action was successful.
+   </div>
+
+
+
+10.What is a bootstrap card and how would you create one? 
+a:- a card class with the . card-body class nested inside.
+
+
+<div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
